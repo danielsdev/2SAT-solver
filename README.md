@@ -24,5 +24,5 @@ O algoritmo para resolver 2SAT utiliza uma função de simplificação conhecida
 ## Como executar
 
 ```
-    php ./php/solver.php < ./test/example.txt 
+php ./php/solver.php < ./test/example.txt 
 ```
