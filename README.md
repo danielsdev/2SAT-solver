@@ -20,3 +20,9 @@ O algoritmo para resolver 2SAT utiliza uma função de simplificação conhecida
 
 ### Saída
     - Um conjunto de cláusula C', C' === C, sem cláusulas unitárias
+    
+## Como executar
+
+```
+    php ./php/solver.php < ./test/example.txt 
+```
